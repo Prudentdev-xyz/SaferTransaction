@@ -93,7 +93,7 @@ ERC-223 spec, and draft tests and this note.
   as the spec requires.
 
 **How I used it:**
-- I started writing the contracts myself ([The interfaces and the basic balance/transfer
+- I started writing the contracts myself (The interfaces and the basic balance/transfer
   logic]) but got stuck on [How to detect a missing hook / how to check the return value /
   the tests].
 - At that point I used Claude to help complete the implementation and tests, then reviewed the result
